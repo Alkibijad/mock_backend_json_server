@@ -1,0 +1,12 @@
+{
+  "feedback": [
+    { "id": 1, "rating": 10, "text": "this 1 is form mock json file" },
+    { "id": 2, "rating": 10, "text": "this 2 is form mock json file" },
+    { "id": 3, "rating": 10, "text": "this 3 is form mock json file" }
+  ],
+  "users":[
+    {"name":"Mila"},
+    {"name":"Adrijana"},
+    {"name":"Sasha"}
+  ]
+}
