@@ -3,8 +3,8 @@ import "./index.css"
 
 
 function App() {
-  const [feedback, setFeedback] = useState([]);
-  const [text, setText] = useState();
+  const [feedback, setFeedback] = useState([]);// imamo sve feedback
+  const [text, setText] = useState();// imamo samo jedan feedback current one
   const [editID, setEditID] = useState(null)
   const textArea = useRef()
 
